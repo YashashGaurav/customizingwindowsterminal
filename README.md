@@ -12,5 +12,20 @@ The `src` folder would contain:
 1. `settings.json` file with plenty of comments to make it is easy for you to customize to your liking.
 2. `winterminal.reg` file that on merging (just double click) will enable you to 'Windows Terminal Here' into any folder.
 
+---
+
+## Some screen shots:
+
+Command Prompt:
+![Command Prompt Screenshot](screenshots\cmd.png)
+
+git-bash:
+![Git Bash Screenshot](screenshots\git-bash.png)
+
+
+Anaconda Prompt:
+![Anaconda Prompt Screenshot](screenshots\conda.png)
+
+---
 
 ## Pull Requests are, as always, accepted :)
