@@ -17,14 +17,14 @@ The `src` folder would contain:
 ## Some screen shots:
 
 Command Prompt:
-![Command Prompt Screenshot](screenshots\cmd.png)
+![Command Prompt Screenshot](screenshots/cmd.png)
 
 git-bash:
-![Git Bash Screenshot](screenshots\git-bash.png)
+![Git Bash Screenshot](screenshots/git-bash.png)
 
 
 Anaconda Prompt:
-![Anaconda Prompt Screenshot](screenshots\conda.png)
+![Anaconda Prompt Screenshot](screenshots/conda.png)
 
 ---
 
